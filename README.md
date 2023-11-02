@@ -1,3 +1,5 @@
 # ETWeek8
 
-Work on implementing a templated function in template.cpp!
+First, work on templates.cpp and then we will come back together to discuss.
+
+After, we will work on dynamicArrays.cpp and see how it functions!
