@@ -7,6 +7,7 @@ using namespace std;
 //Try and take this linked list class and rewrite it as a templated class!
 
 //Hint: you can define a template as: template <typename T>
+
 class linkedlist{
     private:
         class Node{
